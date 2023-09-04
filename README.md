@@ -30,4 +30,4 @@ This project aims to analyze the linguistic differences between fiction written 
 
 ## Additional Information
 
-For more comprehensive details and in-depth analysis of the results, please refer to the `GenFiction_WriteUp.pdf` available in this repository.
+For more comprehensive details and in-depth analysis of the results, please refer to the `GenFiction_Writeup.pdf` available in this repository.
